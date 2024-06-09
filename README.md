@@ -71,7 +71,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux,react,vue" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,figma,idea,vscode,swager,postman,linux" />
   </a>
 </p>
 
