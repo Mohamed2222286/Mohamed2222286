@@ -9,6 +9,6 @@
     <a href="https://www.facebook.com/profile.php?id=100004231693471&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+  <img src="GitHub.png" align="right" width="25%"/>
 
 I'm a software developer Some technologies I enjoy working with include Dart , Flutter, and Firebase. 
