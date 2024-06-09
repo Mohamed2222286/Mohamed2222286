@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on **Flutter**
   
-- 💬 Ask me about **Dart , Flutter and RESTful API **
+- 💬 Ask me about **Dart , Flutter and RESTful API**
   
 - 📫 How to reach me **mohamedabdelkareem531@gmail.com**
 
