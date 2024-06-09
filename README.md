@@ -8,6 +8,11 @@
     <a href="https://www.instagram.com/mohamed_3bdelkareem_1?igsh=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/profile.php?id=100004231693471&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%230177B5?style=flat&logo=facebook&logoColor=white"/></a>
   </p>
+  <p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=AhmedFathyMohamed10&color=blueviolet" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
   
  <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
