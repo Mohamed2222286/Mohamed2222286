@@ -60,10 +60,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
+
 - Mobile 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,flask" />
+    <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
 
