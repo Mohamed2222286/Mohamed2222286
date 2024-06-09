@@ -53,8 +53,8 @@
   <a href="https://www.instagram.com/mohamed_3bdelkareem_1?igsh=OGQ5ZDc2ODk2ZA==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://x.com/Mhmd2222286" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-%23000000?style=flat&logo=x&logoColor=white" alt="x" height="30" width="40" />
+ <a href="https://www.x.com/yourprofile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="x" height="30" width="40" />
   </a>
 </p>
 
