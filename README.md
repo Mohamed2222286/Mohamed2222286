@@ -39,4 +39,11 @@
 <br><br>
 
 - 📫 How to reach me **mohamedabdelkareem531@gmail.com**
-- I'm a software developer Some technologies I enjoy working with include Dart , Flutter, and Firebase. 
+- I'm a software developer Some technologies I enjoy working with include Dart , Flutter, and Firebase.
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmedfathyukq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed fathy" height="30" width="40" /></a>
+</p>
+<br>
