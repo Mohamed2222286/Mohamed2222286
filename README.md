@@ -34,7 +34,6 @@
 <br><br>
 
 - 📫 How to reach me **mohamedabdelkareem531@gmail.com**
-- I'm a software developer Some technologies I enjoy working with include Dart , Flutter, and Firebase.
 
 <br>
 <h3 align="left">Connect with me :</h3>
