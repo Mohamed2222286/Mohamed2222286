@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi, I'm Mohamed 👋</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=40&center=true&vCenter=true&width=1000&height=50&lines=Hi+👋+I+am+Ahmed;Back-End+Engineer+@+Axapta.+Ltd;Freelancer+.NET+Engineer;Open-Source+Enthusiast">
+</div>
 <p align="center">
     <a href="https://x.com/Mhmd2222286"><img src="https://img.shields.io/badge/-%23000000?style=flat&logo=x&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mohamed-abd-elkareem-607507224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
