@@ -99,7 +99,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,figma,idea,vscode,swagger,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,idea,postman,linux" />
   </a>
 </p>
 
