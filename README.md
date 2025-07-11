@@ -58,35 +58,35 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
 </p>
-
 <p align="left">
 
   <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" alt="Gmail" />
   </a>
 
   <!-- Facebook -->
   <a href="https://facebook.com/your_username" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/your_username" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/your_username" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="X" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/your_username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" height="30" alt="X" />
   </a>
 
 </p>
+
 
 
 <br>
