@@ -58,6 +58,36 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
 </p>
+
+<p align="left">
+
+  <!-- Gmail (mailto) -->
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/your_username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your_username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" />
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your_username" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="instagram" />
+  </a>
+
+</p>
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
