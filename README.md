@@ -61,32 +61,33 @@
 
 <p align="left">
 
-  <!-- Gmail (mailto) -->
+  <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Gmail" />
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook" />
+  <a href="https://facebook.com/your_username" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="Facebook" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" />
+  <a href="https://linkedin.com/in/your_username" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" alt="LinkedIn" />
   </a>
 
-  <!-- Twitter (X) -->
-  <a href="https://twitter.com/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter" />
+  <!-- X (Twitter) -->
+  <a href="https://x.com/your_username" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="30" alt="X" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/your_username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="instagram" />
+  <a href="https://instagram.com/your_username" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram" />
   </a>
 
 </p>
+
 
 <br>
 
