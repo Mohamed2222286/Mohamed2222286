@@ -41,36 +41,31 @@
 
 <br>
 <h3 align="left">Connect with me :</h3>
+
 <p align="left">
 
   <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Gmail" />
   </a>
 
   <!-- Facebook -->
   <a href="https://facebook.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" alt="Facebook" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" height="30" alt="X" />
-  </a>
-
-</p>
-
-
+  <a href="https://x.com/your_username" targe_
 
 <br>
 
