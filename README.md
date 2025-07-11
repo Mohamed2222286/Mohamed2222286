@@ -45,25 +45,19 @@
 <p align="left">
 
   <!-- Gmail -->
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:mohamedabdelkareem531@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" style="margin-right: 50px;" />
   </a>&nbsp;&nbsp;
 
   <!-- Facebook -->
-  <a href="https://facebook.com/your_username" target="_blank">
+  <a href="https://www.facebook.com/share/1BqFXypBx1/?mibextid=wwXIfr" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook" style="margin-right: 15px;" />
   </a>&nbsp;&nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/your_username" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-abd-el-kareem-607507224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn" style="margin-right: 15px;" />
   </a>&nbsp;&nbsp;
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" style="margin-right: 15px;" />
-  </a>&nbsp;&nbsp;
-
 </p>
 
 <br>
