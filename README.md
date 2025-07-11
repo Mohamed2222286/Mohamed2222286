@@ -42,27 +42,10 @@
 <br>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-abd-elkareem-607507224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abd elkareem" height="30" width="40" />
-  </a>
-    
-  <a href="https://www.facebook.com/profile.php?id=100004231693471&mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/mohamed_3bdelkareem_1?igsh=OGQ5ZDc2ODk2ZA==" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  
-<a href="https://x.com/Mhmd2222286" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-</p>
-<p align="left">
 
   <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" height="30" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" />
   </a>
 
   <!-- Facebook -->
