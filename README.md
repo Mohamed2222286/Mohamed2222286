@@ -46,7 +46,7 @@
 
   <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" style="margin-right: 50px;" />
   </a>
 
   <!-- Facebook -->
