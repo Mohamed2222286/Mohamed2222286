@@ -64,16 +64,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" style="margin-right: 15px;" />
   </a>&nbsp;&nbsp;
 
-  <!-- X (Twitter) -->
-<a href="https://x.com/your_username" target="_blank">
-  <div style="display:inline-block; background-color:white; border-radius:6px; padding:5px;">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" 
-      height="30" 
-      alt="X" 
-    />
-  </div>
-</a>&nbsp;&nbsp;
+  <!-- X (Twitter) -->  
+  <a href="https://x.com/your_username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="30" alt="X" />
+  </a>&nbsp;&nbsp;
 
 </p>
 
