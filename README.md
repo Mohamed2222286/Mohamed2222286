@@ -33,12 +33,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Flutter**
-  
-- 💬 Ask me about **Dart , Flutter and RESTful API**
-  
-- 📫 How to reach me **mohamedabdelkareem531@gmail.com**
+💼 Professional Summary
 
+Passionate Mobile Application Developer with solid expertise in designing and developing high-performance, user-centric
+applications using Flutter and Dart, as well as native iOS interfaces with UIKit and SwiftUI. Skilled in crafting seamless UI/UX
+experiences, integrating RESTful APIs, managing state, and implementing advanced features such as authentication and local
+storage. Adept at collaborating with cross-functional teams to deliver scalable and innovative solutions that align with both user
+needs and business objectives
 <br>
 <h3 align="left">Connect with me :</h3>
 
