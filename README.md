@@ -66,7 +66,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,swift,java,py,flutter,firebase,supabase,mysql,zure,docker,git,github,androidstudio,vscode,figma,idea,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=dart,swift,java,py,flutter,firebase,supabase,mysql,azure,docker,git,github,androidstudio,vscode,figma,idea,postman,linux" />
   </a>
 </p>
 
