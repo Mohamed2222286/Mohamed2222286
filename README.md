@@ -46,31 +46,23 @@
 
   <!-- Gmail -->
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/48px-Gmail_icon_%282020%29.svg.png" height="30" alt="Gmail" style="margin-right: 15px;" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <!-- Facebook -->
   <a href="https://facebook.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="30" alt="Facebook" style="margin-right: 15px;" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="30" alt="Instagram" style="margin-right: 15px;" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
 
   <!-- X (Twitter) -->
   <a href="https://x.com/your_username" target="_blank">
