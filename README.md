@@ -62,40 +62,40 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Skills :</h3>
 
-- Mobile 
+- Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,ios" />
+    <img src="https://skillicons.dev/icons?i=dart,swift,java,py" />
+  </a>
+</p>
+
+- Mobile Framworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,ios" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure,docker" />
   </a>
 </p>
 
-- Other 
+- Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,nodejs" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,idea,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,idea,postman,linux," />
   </a>
 </p>
 
