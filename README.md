@@ -5,10 +5,8 @@
 
   <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Mohamed2222286&color=blueviolet" /> 
-<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
-<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+    
 </p>
-  
  <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -34,7 +32,7 @@
 <br><br>
 
 <h2 align="left"> Professional Summary 💼 :</h2>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 Passionate **Mobile Application Developer** with solid expertise in designing and developing **high-performance**, **user-centric applications** using **Flutter** and **Dart**, as well as native **iOS interfaces** with **UIKit** and **SwiftUI**. Skilled in crafting seamless **UI/UX experiences**, integrating **RESTful APIs**, managing **state**, and implementing advanced features such as **authentication** and **local storage**. Adept at collaborating with **cross-functional teams** to deliver **scalable** and **innovative solutions** that align with both **user needs** and **business objectives**.
 
 <br>
