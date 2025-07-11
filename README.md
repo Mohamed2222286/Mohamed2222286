@@ -29,10 +29,10 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+
 
 <h2 align="left"> Professional Summary 💼 :</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="30%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="60%">
 Passionate **Mobile Application Developer** with solid expertise in designing and developing **high-performance**, **user-centric applications** using **Flutter** and **Dart**, as well as native **iOS interfaces** with **UIKit** and **SwiftUI**. Skilled in crafting seamless **UI/UX experiences**, integrating **RESTful APIs**, managing **state**, and implementing advanced features such as **authentication** and **local storage**. Adept at collaborating with **cross-functional teams** to deliver **scalable** and **innovative solutions** that align with both **user needs** and **business objectives**.
 
 <br>
