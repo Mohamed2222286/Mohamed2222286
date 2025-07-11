@@ -64,38 +64,9 @@
 
 <h3 align="left">Technical Skills :</h3>
 
-- Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,swift,java,py" />
-  </a>
-</p>
-
-- Mobile Framworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,ios" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker" />
-  </a>
-</p>
-
-- Development Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,idea,postman,linux," />
+    <img src="https://skillicons.dev/icons?i=dart,swift,java,py,flutter,firebase,supabase,mysql,zure,docker,git,github,androidstudio,vscode,figma,idea,postman,linux" />
   </a>
 </p>
 
