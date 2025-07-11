@@ -65,9 +65,15 @@
   </a>&nbsp;&nbsp;
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/your_username" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height="30" alt="X" />
-  </a>&nbsp;&nbsp;
+<a href="https://x.com/your_username" target="_blank">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" 
+    height="30" 
+    alt="X" 
+    style="background-color:white; border-radius:5px; padding:3px;"
+  />
+</a>
+&nbsp;&nbsp;
 
 </p>
 
