@@ -33,7 +33,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-💼 Professional Summary
+<h2 align="left"> Professional Summary 💼 :</h2>
 
 Passionate Mobile Application Developer with solid expertise in designing and developing high-performance, user-centric
 applications using Flutter and Dart, as well as native iOS interfaces with UIKit and SwiftUI. Skilled in crafting seamless UI/UX
