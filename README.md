@@ -31,7 +31,7 @@
 
 <br> <br>
 
-<h1 align="left"> Professional Summary 💼 :</h1>
+<p align="left"><strong>💼 Professional Summary</strong></p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="60%">
 Passionate **Mobile Application Developer** with solid expertise in designing and developing **high-performance**, **user-centric applications** using **Flutter** and **Dart**, as well as native **iOS interfaces** with **UIKit** and **SwiftUI**. Skilled in crafting seamless **UI/UX experiences**, integrating **RESTful APIs**, managing **state**, and implementing advanced features such as **authentication** and **local storage**. Adept at collaborating with **cross-functional teams** to deliver **scalable** and **innovative solutions** that align with both **user needs** and **business objectives**.
 
